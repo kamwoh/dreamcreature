@@ -2,7 +2,7 @@
 
 Please refer to https://github.com/kamwoh/dreamcreature for official implementation.
 
-Bibtex
+### Citation
 ```
 @inproceedings{ng2024partcraft,
   title={PartCraft: Crafting Creative Objects by Parts},
