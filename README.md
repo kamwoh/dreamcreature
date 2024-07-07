@@ -1,7 +1,6 @@
-# PartCraft: Crafting Creative Objects by Parts (ECCV 2024)
 # DreamCreature: Crafting Photorealistic Virtual Creatures from Imagination
 
-Please refer to https://github.com/kamwoh/partcraft for official implementation.
+This repository is deprecated, please refer to https://github.com/kamwoh/partcraft for official implementation.
 
 ### Citation
 ```
